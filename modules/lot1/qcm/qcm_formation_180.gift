@@ -1,0 +1,142 @@
+// QCM Formation 180 min — Résolution de problèmes (C2 & C3)
+// Format: GIFT (UTF-8). Import direct Moodle/Chamilo. Une seule bonne réponse par question.
+
+::Q1_Trame_explicite_ordre:: Quelle est la bonne trame de l’enseignement explicite (dans l’ordre) ? {
+~Guidage → Modelage → Autonomie → Mise en commun → Institutionnalisation
+=Modelage → Guidage → Autonomie → Mise en commun → Institutionnalisation
+~Autonomie → Modelage → Guidage → Mise en commun → Institutionnalisation
+~Modelage → Autonomie → Guidage → Mise en commun → Institutionnalisation
+}
+
+::Q2_Demarche_1ere_etape:: Dans la démarche de résolution, quelle est la première étape ? {
+=Lire et comprendre l’énoncé
+~Choisir l’opération
+~Poser l’opération en colonne
+~Écrire la phrase-réponse
+}
+
+::Q3_Indice_lexical_addition:: Dans « Léa avait 8 billes, elle en gagne 5 », quel mot indice oriente vers l’addition ? {
+=gagne
+~avait
+~billes
+~maintenant
+}
+
+::Q4_Representation_comparaison:: Pour comparer deux quantités, la représentation la plus pertinente est souvent : {
+=Le schéma en barres (comparaison)
+~Le calcul posé directement
+~Un dessin sans légendes
+~Une ligne numérique sans repères
+}
+
+::Q5_Priorites_C2_types:: Au cycle 2, on priorise d’abord les problèmes : {
+=Additifs à une étape (transformation/combinaison/comparaison)
+~Multiplicatifs complexes à plusieurs étapes
+~Proportionnalité avec échelles variables
+~Optimisation sous contraintes
+}
+
+::Q6_Controle_vraisemblance:: Le contrôle de vraisemblance consiste à : {
+=Vérifier que le résultat est cohérent avec l’histoire de l’énoncé
+~Recalculer systématiquement avec d’autres nombres
+~Toujours arrondir le résultat
+~Comparer avec la réponse du voisin
+}
+
+::Q7_Enonce_qualite_C2:: Un énoncé de qualité au C2 est plutôt : {
+=Court, vocabulaire accessible, données utiles explicites, représentable, une opération
+~Long, riche en détails, plusieurs opérations implicites
+~Sous forme de devinette, sans données chiffrées
+~Uniquement symbolique, sans contexte
+}
+
+::Q8_Representation_favorite_C2:: La représentation la plus mobilisée au C2 pour l’additif est : {
+=Le schéma en barres (parties-tout / transformation)
+~Le graphe en secteurs
+~Le tableau de proportionnalité
+~La figure géométrique complexe
+}
+
+::Q9_Erreur_phrase_reponse:: Un calcul juste mais une réponse déconnectée du contexte se corrige en : {
+=Exigeant une phrase-réponse liée à l’énoncé
+~Supprimant la représentation
+~Ajoutant un distracteur
+~Multipliant les nombres
+}
+
+::Q10_Differenciation_anti_exemple:: Laquelle n’est PAS une différenciation pertinente ? {
+=Augmenter systématiquement la difficulté sans support
+~Adapter les nombres et les consignes
+~Fournir des schémas pré-tracés
+~Accorder du temps supplémentaire
+}
+
+::Q11_Accessibilite_malvoyants:: Pour l’accessibilité malvoyants, on recommande : {
+=Police ≥ 14–16, contraste élevé, descriptions textuelles, oralisation
+~Police très fine, couleurs pastels, schémas chargés
+~Polices décoratives, fond à motifs
+~Uniquement des pictogrammes sans texte
+}
+
+::Q12_Eval_formative_obj:: L’objectif principal de l’évaluation formative est de : {
+=Aider à apprendre et ajuster l’enseignement
+~Sanctionner et classer
+~Mesurer la vitesse de calcul uniquement
+~Vérifier l’écriture cursive
+}
+
+::Q13_Grille_criteres:: Quel critère ne fait PAS partie de la grille 0–3 proposée ? {
+~Objectifs d’apprentissage
+~Séquencement explicite
+~Étayage / retrait progressif
+=Temps de récréation
+}
+
+::Q14_Multiplicatif_exemple:: Un exemple typique de problème multiplicatif au C3 est : {
+=Répétition de groupes égaux (a × b)
+~Addition d’une collection unique
+~Soustraction d’un état final
+~Comparaison additive simple
+}
+
+::Q15_Proportionnalite_outil:: Pour la proportionnalité élémentaire, l’outil privilégié est : {
+=Le tableau de valeurs (coefficient constant)
+~Le schéma en barres de parties-tout
+~Le diagramme circulaire systématique
+~Le calcul posé sans contexte
+}
+
+::Q16_Variabilite_controlee:: La variabilité contrôlée signifie : {
+=Garder la même structure et varier nombres/contexte/représentation
+~Changer de structure à chaque tâche de façon imprévisible
+~Supprimer toute représentation
+~Imposer une seule méthode
+}
+
+::Q17_Sur_etayage:: Face au sur-étayage, on vise : {
+=Un retrait progressif des aides
+~Une aide permanente inchangée
+~La suppression de toute aide d’un coup
+~Le remplacement par plus de consignes écrites
+}
+
+::Q18_Routines_efficaces:: Une routine efficace pour entretenir les acquis est : {
+=3 micro-tâches (représenter, calcul réfléchi, fait numérique) en 5–10 minutes
+~Un examen hebdomadaire d’une heure
+~Uniquement des jeux sans trace
+~Des dictées de nombres quotidiennes de 30 minutes
+}
+
+::Q19_Indice_comparaison:: L’expression « de plus que » renvoie prioritairement à : {
+=Une comparaison additive
+~Une répétition multiplicative
+~Une proportionnalité complexe
+~Une géométrie de l’espace
+}
+
+::Q20_Feedback_priorites:: Dans le feedback structuré, on formule : {
+=Trois priorités de révision
+~Une seule priorité
+~Sept priorités
+~Aucune priorité (bilan seulement)
+}

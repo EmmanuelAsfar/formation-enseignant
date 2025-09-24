@@ -1,0 +1,32 @@
+{
+  "name": "formation-enseignant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "slides:serve": "marp -s docs/formation --watch --html --allow-local-files",
+    "slides:build": "marp docs/formation/slides_180min.md -o docs/formation/slides_180min.html --html --allow-local-files",
+    "slides:pdf": "marp docs/formation/slides_180min.md -o docs/formation/slides_180min.pdf --pdf --allow-local-files",
+    "qcm:pdf": "md-to-pdf modules/lot1/qcm/qcm_papier_formation_180.md --stylesheet modules/lot1/qcm/print.css",
+    "qcm:pdf-corrige": "md-to-pdf modules/lot1/qcm/qcm_papier_formation_180_corrige.md --stylesheet modules/lot1/qcm/print.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanuelAsfar/formation-enseignant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmanuelAsfar/formation-enseignant/issues"
+  },
+  "homepage": "https://github.com/EmmanuelAsfar/formation-enseignant#readme",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.2.3",
+    "md-to-pdf": "^5.2.4"
+  }
+}
