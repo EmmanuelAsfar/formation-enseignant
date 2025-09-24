@@ -5,8 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json
 
-# Generated PDFs
-*.pdf
 
 # Temporary files
 *.tmp
@@ -132,13 +130,6 @@ jspm_packages/
 *.bak
 *.backup
 *_backup.*
-
-# Generated documentation
-docs/generated/
-
-# Marp slide outputs
-slides_*.html
-slides_*.pdf
 
 # QCM temporary files
 qcm_*_print.md
