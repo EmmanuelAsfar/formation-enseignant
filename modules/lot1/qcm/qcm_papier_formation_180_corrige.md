@@ -1,32 +1,75 @@
 ---
 marp: true
+theme: default
 paginate: true
+class: lead
 size: A4
 ---
 
 # Correction — QCM Résolution de problèmes (C2 & C3)
 
-<div class="two-col">
+## Réponses correctes
 
-<div class="q-item">1) B — Trame attendue: Modelage → Guidage → Autonomie → Mise en commun → Institutionnalisation.</div>
-<div class="q-item">2) B — Toujours commencer par lire/clarifier l’énoncé et les données utiles.</div>
-<div class="q-item">3) B — « gagne » traduit une augmentation ⇒ addition.</div>
-<div class="q-item">4) B — Le schéma en barres rend explicite l’écart entre deux quantités.</div>
-<div class="q-item">5) B — Entrer par des structures additives simples et représentables.</div>
-<div class="q-item">6) B — On confronte le résultat au contexte pour vérifier sa plausibilité.</div>
-<div class="q-item">7) B — Des énoncés courts, clairs, avec données utiles et une structure ciblée.</div>
-<div class="q-item">8) B — Les barres aident à modéliser parties‑tout et transformations simples.</div>
-<div class="q-item">9) B — La phrase‑réponse ancre le résultat dans la situation.</div>
-<div class="q-item">10) D — Différencier ≠ « durcir » sans étayage; on ajuste supports/nombres/temps.</div>
-<div class="q-item">11) A — Taille suffisante, contraste fort et alternatives textuelles.</div>
-<div class="q-item">12) A — On s’en sert pour réguler l’enseignement et guider les apprentissages.</div>
-<div class="q-item">13) D — La grille cible des critères pédagogiques, pas l’organisation de la récréation.</div>
-<div class="q-item">14) A — Modèle multiplicatif: plusieurs groupes égaux → produit.</div>
-<div class="q-item">15) A — Le tableau fixe le coefficient de proportionnalité et structure les calculs.</div>
-<div class="q-item">16) A — On varie les « dimensions secondaires » en conservant la structure visée.</div>
-<div class="q-item">17) A — On retire graduellement l’aide pour développer l’autonomie.</div>
-<div class="q-item">18) A — Courtes routines quotidiennes ciblant représentations et calcul réfléchi.</div>
-<div class="q-item">19) A — Indice lexical de comparaison additive.</div>
-<div class="q-item">20) A — Formuler 3 priorités concrètes et actionnables.</div>
+**1) B** — Trame attendue: Modelage → Guidage → Autonomie → Mise en commun → Institutionnalisation.
 
-</div>
+**2) B** — Toujours commencer par lire/clarifier l'énoncé et les données utiles.
+
+**3) B** — « gagne » traduit une augmentation ⇒ addition.
+
+**4) B** — Le schéma en barres rend explicite l'écart entre deux quantités.
+
+**5) B** — Entrer par des structures additives simples et représentables.
+
+**6) B** — On confronte le résultat au contexte pour vérifier sa plausibilité.
+
+**7) B** — Des énoncés courts, clairs, avec données utiles et une structure ciblée.
+
+**8) B** — Les barres aident à modéliser parties‑tout et transformations simples.
+
+**9) B** — La phrase‑réponse ancre le résultat dans la situation.
+
+**10) C** — Différencier ≠ « donner la réponse »; on ajuste supports/nombres/temps.
+
+---
+
+## Suite des réponses
+
+**11) B** — Penser à voix haute en montrant la démarche.
+
+**12) B** — Une quantité qui change (gagne/perd).
+
+**13) B** — Être cohérente avec l'énoncé et le calcul.
+
+**14) B** — Proposer des nombres plus petits et des aides visuelles.
+
+**15) B** — Fixer les connaissances importantes de la séance.
+
+**16) B** — Représenter clairement les données et la question.
+
+**17) B** — De faire verbaliser les démarches et d'identifier les invariants.
+
+**18) B** — Deux quantités à additionner pour trouver un total.
+
+**19) B** — Donner des indices et poser des questions pour guider.
+
+**20) B** — La compréhension, la représentation, le choix de stratégie et la justification.
+
+---
+
+## Barème de notation
+
+- **18-20 bonnes réponses** : Excellent niveau de maîtrise
+- **15-17 bonnes réponses** : Bon niveau de maîtrise  
+- **12-14 bonnes réponses** : Niveau de maîtrise satisfaisant
+- **9-11 bonnes réponses** : Niveau de maîtrise partiel
+- **0-8 bonnes réponses** : Niveau de maîtrise insuffisant
+
+---
+
+## Points clés à retenir
+
+- **Enseignement explicite** : Modelage → Guidage → Autonomie → Mise en commun → Institutionnalisation
+- **Démarche de résolution** : Lire → Représenter → Résoudre → Vérifier
+- **Représentations** : Schémas en barres pour l'additif au C2
+- **Différenciation** : Ajuster les supports, pas donner les réponses
+- **Évaluation** : Observer compréhension, représentation, stratégie et justification
